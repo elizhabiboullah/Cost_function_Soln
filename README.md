@@ -155,7 +155,3 @@ soup_bowl()
 
 
 
-
-```python
-
-```
