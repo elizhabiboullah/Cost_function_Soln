@@ -1,7 +1,4 @@
-# Optional  Lab: Cost Function 
-<figure>
-    <center> <img src="./images/C1_W1_L3_S2_Lecture_b.png"  style="width:1000px;height:200px;" ></center>
-</figure>
+
 
 
 
